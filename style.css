@@ -1,0 +1,30 @@
+body {
+    display: block;
+    font-family: "Helvetica Neue", sans-serif;
+    line-height: 1.5;
+
+    background-color: #333333;
+    color: azure;
+
+    width: 980px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+    text-shadow: lightgray;
+}
+
+main > h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.main-text {
+    background: #333333;
+    box-shadow: whitesmoke 30px 15px 1px;
+    opacity: 75%;
+    color: whitesmoke;
+}
